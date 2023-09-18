@@ -1,11 +1,11 @@
-import { Button } from '@/components/ui/button'
-import Image from 'next/image'
+import { UserButton } from "@clerk/nextjs"
 
-export default function Home() {
+const SetupPage = () => {
   return (
-    <>
-      <p>hi admin dashboard</p>
-      <Button size="sm" variant="outline">Click me</Button>
-    </>
+    <div className="p-4">
+      <UserButton afterSignOutUrl="/" />
+    </div>
   )
 }
+
+export default SetupPage

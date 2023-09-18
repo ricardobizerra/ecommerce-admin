@@ -8,6 +8,7 @@ This project was originally developed in YouTube by [Code With Antonio](https://
 
 1. [Tech Stack](#tech-stack)
     1. [Frontend](#front-end)
+    1. [Backend](#back-end)
 
 ## Tech Stack
 
@@ -16,3 +17,9 @@ This project was originally developed in YouTube by [Code With Antonio](https://
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Back-End
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
